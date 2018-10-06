@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\zhli\\workspace\\FaceFinder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhli\\workspace\\FaceFinder\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "58,107,161",
+                        "endColumns": "47,52,50",
+                        "endOffsets": "101,155,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,156",
+                        "endColumns": "47,52,50",
+                        "endOffsets": "98,151,202"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zhli\\workspace\\FaceFinder\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,12,19,15",
+                        "startColumns": "4,4,4,1",
+                        "startOffsets": "190,488,814,648",
+                        "endLines": "11,14,22,17",
+                        "endColumns": "12,12,16,12",
+                        "endOffsets": "482,645,1045,806"
+                    },
+                    "to": {
+                        "startLines": "5,12,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "207,498,658,891",
+                        "endLines": "11,14,18,21",
+                        "endColumns": "12,12,16,12",
+                        "endOffsets": "493,653,886,1047"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhli\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\zhli\workspace\FaceFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_d3dead16c7cb8d3467d0cb133c80aa914ce2e683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhli\workspace\FaceFinder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a797f902e16725a6fcc7c9d4c655ee20d4ccc754">
+        <dex dex="C:\Users\zhli\workspace\FaceFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_769a216f7f70c450a9ec7aace7a5314ee686d7d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhli\workspace\FaceFinder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e8b0dfa148e20c03ed0de52265124bfad8b4e2ff">
+        <dex dex="C:\Users\zhli\workspace\FaceFinder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5861bdb0cff7e38b151dd4bfa72a7cf42622b77a\classes.dex" />
+    </item>
+
+</items>

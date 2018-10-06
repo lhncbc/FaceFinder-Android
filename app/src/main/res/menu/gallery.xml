@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        
+    <item android:id="@+id/itemFindFace"
+        android:title="Batch Process: Find Face"
+        android:orderInCategory="0"
+        android:showAsAction="always" >
+    </item>
+
+    <item
+        android:id="@+id/menu_xml"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="XML">
+    </item>
+
+    <item
+        android:id="@+id/menu_raw"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="RAW">
+    </item>
+
+    <item
+        android:id="@+id/menu_txt"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="Batch Process: TXT" >
+    </item>
+
+    <item
+        android:id="@+id/menu_delete_images"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="Delete All Images" >
+    </item>
+
+    <item
+        android:id="@+id/menu_statistics"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="Statistics" >
+    </item>
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings">
+    </item>
+    
+    <item
+        android:id="@+id/menu_help"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Help">
+    </item>
+        
+</menu>
